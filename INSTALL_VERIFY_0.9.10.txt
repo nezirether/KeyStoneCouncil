@@ -1,0 +1,1 @@
+If /kc diag does not say Keystone Council 0.9.10-alpha, WoW is not loading this folder. Verify AddOns/KeystoneCouncil/KeystoneCouncil.toc and delete all duplicate KeystoneCouncil folders.
